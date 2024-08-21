@@ -11,11 +11,11 @@ const CrudSchema = new Schema({
      },
    
      soni: {
-          type: Number,
+          type: String,
           required: true,
      },
      narxi: {
-          type: Number,
+          type: String,
           required: true,
      },
  
